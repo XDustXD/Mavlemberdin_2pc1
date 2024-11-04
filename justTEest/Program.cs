@@ -21,6 +21,16 @@ namespace justTEest
                 Console.WriteLine();
             }
             Console.WriteLine();
+
+            for (int j = height; j >= 1; j--)
+            {
+                for (int k = 1; k <= j; k++)
+                {
+                    Console.Write('#');
+                }
+                Console.WriteLine();
+            }
+            Console.WriteLine();
         }
     }
 }
