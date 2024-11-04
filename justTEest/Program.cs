@@ -10,7 +10,7 @@ namespace justTEest
     {
         static void Main(string[] args)
         {
-            int height = 5;
+            int height = 7;
 
             for (int j = 1; j <= height; j++)
             {
