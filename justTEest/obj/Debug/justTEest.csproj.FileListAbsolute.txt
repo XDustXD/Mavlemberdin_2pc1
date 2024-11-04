@@ -1,0 +1,7 @@
+C:\Users\Dust\source\repos\justTEest\justTEest\bin\Debug\justTEest.exe.config
+C:\Users\Dust\source\repos\justTEest\justTEest\bin\Debug\justTEest.exe
+C:\Users\Dust\source\repos\justTEest\justTEest\bin\Debug\justTEest.pdb
+C:\Users\Dust\source\repos\justTEest\justTEest\obj\Debug\justTEest.csproj.AssemblyReference.cache
+C:\Users\Dust\source\repos\justTEest\justTEest\obj\Debug\justTEest.csproj.CoreCompileInputs.cache
+C:\Users\Dust\source\repos\justTEest\justTEest\obj\Debug\justTEest.exe
+C:\Users\Dust\source\repos\justTEest\justTEest\obj\Debug\justTEest.pdb
